@@ -13,7 +13,9 @@
 # Collaborators
   
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=hardcorefactions&data=followers,repositories,stars,commits"></p>
-<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=bungeees&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=NotRemixed&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=PerroDev&data=followers,repositories,stars,commits"></p>
+<p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=zLuckash&data=followers,repositories,stars,commits"></p>
   
 ---
   
